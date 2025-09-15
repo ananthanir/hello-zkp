@@ -5,6 +5,7 @@ go 1.23.2
 require (
 	github.com/consensys/gnark v0.12.0
 	github.com/consensys/gnark-crypto v0.15.0
+	github.com/rs/zerolog v1.33.0
 )
 
 require (
@@ -18,7 +19,6 @@ require (
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mmcloughlin/addchain v0.4.0 // indirect
 	github.com/ronanh/intcomp v1.1.0 // indirect
-	github.com/rs/zerolog v1.33.0 // indirect
 	github.com/x448/float16 v0.8.4 // indirect
 	golang.org/x/crypto v0.32.0 // indirect
 	golang.org/x/sync v0.10.0 // indirect
